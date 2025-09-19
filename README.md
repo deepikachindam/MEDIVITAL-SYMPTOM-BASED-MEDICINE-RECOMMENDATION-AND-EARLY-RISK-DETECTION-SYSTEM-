@@ -1,0 +1,2 @@
+# MEDIVITAL-SYMPTOM-BASED-MEDICINE-RECOMMENDATION-AND-EARLY-RISK-DETECTION-SYSTEM-
+This project is designed to help individuals make informed decisions about their health. It classifies the user's condition into categories. For mild symptoms, the system recommends over-the counter medicines. For severe symptoms, it guides users toward relevant government health schemes,or emergency care options that suit their needs. 
